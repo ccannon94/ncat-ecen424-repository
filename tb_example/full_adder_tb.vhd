@@ -1,0 +1,34 @@
+library IEEE;
+use IEEE.STD_LOGIC_1164.ALL;
+use IEEE.NUMERIC_STD.ALL;
+
+entity full_adder_tb is
+end entity full_adder_tb;
+
+architecture tb_behavioral of full_adder_tb is
+	component full_adder is
+		port(a, b, cin: in std_logic; sum, cout: out std_logic);
+	end component;
+
+	signal tb_a, tb_b, tb_cin : std_logic;
+	signal tb_sum, tb_cout : std_logic;
+
+begin
+	uut: full_adder port map (tb_a, tb_b, tb_cin, tb_sum, tb_cout);
+
+	gen_test_vectors: process
+		variable test_in: unsigned(2 downto 0);
+		variable expected: unsigned(1 downto 0);
+		variable error_count: integer := 0;
+	begin
+		test_in := B"000"; --the B tells VHDL we are entering this value in binary
+		for count in 0 to 7 loop
+			tb_a <= test_in(2);
+			tb_b <= test_in(1);
+			tb_cin <= test_in(0);
+			wait for 10 ns;
+			test_in := test_in + 1;
+		end loop;
+		report "Done with test";
+	end process;
+end architecture tb_behavioral;
