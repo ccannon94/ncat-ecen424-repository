@@ -1,0 +1,1 @@
+This is an example of a test bench used to verify a full adder. We loaded these file in ModelSim, started the simulation, and gave the command `run 100ns`. This automatically generated test cases and we verified the results based on the waveforms.
