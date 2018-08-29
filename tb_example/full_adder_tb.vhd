@@ -27,8 +27,25 @@ begin
 			tb_b <= test_in(1);
 			tb_cin <= test_in(0);
 			wait for 10 ns;
+			
+			--check to see if result is correct
+			expected := ('0' & tb_a) + ('0' & tb_b) + ('0' & tb_cin);
+			if(expected /= (tb_cout & tb_sum)) then
+			 report "ERROR: Expected (" &
+			   std_logic'image(expected(1)) &
+			   std_logic'image(expected(0)) &
+			   ") actual (" &
+			   std_logic'image(tb_cout) &
+			   std_logic'image(tb_sum) &
+			   ")";
+			   
+			 error_count := error_count + 1;
+			end if;
+			
 			test_in := test_in + 1;
 		end loop;
-		report "Done with test";
+		report "Done with test. There were " & 
+		  integer'image(error_count) &
+		  " errors";
 	end process;
 end architecture tb_behavioral;
