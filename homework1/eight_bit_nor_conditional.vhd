@@ -1,0 +1,12 @@
+library IEEE;
+use IEEE.STD_LOGIC_1164.ALL;
+
+entity eight_bit_nor_conditional is
+	port(input : in std_logic_vector(7 downto 0); output : out std_logic);
+end entity eight_bit_nor_conditional;
+
+architecture behavioral of eight_bit_nor_conditional is
+
+begin
+	output <= '1' when input = "11111111" else '0';
+end architecture behavioral;
