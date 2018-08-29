@@ -20,7 +20,7 @@ begin
 		variable test_in : unsigned(7 downto 0);
 	begin
 		test_in := B"00000000";
-		for count in 0 to 127 loop
+		for count in 0 to 255 loop
 			tb_input <= std_logic_vector(test_in);
 			wait for 10 ns;
 			test_in := test_in + 1;
