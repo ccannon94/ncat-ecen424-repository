@@ -8,7 +8,7 @@ end;
 architecture behavioral of eight_one_mux_process is
 
 begin
-	process(input)
+	process(sel, input)
 	begin
 		case sel is
 			when "000" => output <= input(0);	
