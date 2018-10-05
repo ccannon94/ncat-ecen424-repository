@@ -1,0 +1,18 @@
+C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_bit_nand_selected_tb.vhd {1 {vcom -work ecen424 -2002 -explicit -stats=none C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_bit_nand_selected_tb.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity eight_bit_nand_selected_tb
+-- Compiling architecture tb_behavioral of eight_bit_nand_selected_tb
+
+} {} {}} C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_bit_nand_selected.vhd {1 {vcom -work ecen424 -2002 -explicit -stats=none C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_bit_nand_selected.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity eight_bit_nand_selected
+-- Compiling architecture behavioral of eight_bit_nand_selected
+
+} {} {}}

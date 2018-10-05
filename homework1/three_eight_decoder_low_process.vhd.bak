@@ -1,0 +1,24 @@
+library IEEE;
+use IEEE.STD_LOGIC_1164.ALL;
+
+entity three_eight_decoder_low_process is
+	port(input : in std_logic_vector(2 downto 0); output : out std_logic_vector(7 downto 0));
+end;
+
+architecture behavioral of three_eight_decoder_low_process is
+
+begin
+	process(input) is
+	begin
+		case input is
+			when "11111110" => output <= "000";
+			when "11111101" => output <= "001";
+			when "11111011" => output <= "010";
+			when "11110111" => output <= "011";
+			when "11101111" => output <= "100";
+			when "11011111" => output <= "101";
+			when "10111111" => output <= "110";
+			when others => output <= "111";
+		end case;
+	end process;
+end;

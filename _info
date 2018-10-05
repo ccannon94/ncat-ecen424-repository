@@ -1,0 +1,90 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+Eeightbitnand
+Z0 w1535507819
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dC:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1
+Z4 8C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_nand_concurrent.vhd
+Z5 FC:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_nand_concurrent.vhd
+l0
+L4
+VhXb^@>Ii0Bkf^A3l=fHRH3
+!s100 o^RzQfj:o12DB]gTPIFRF2
+Z6 OP;C;10.4a;61
+32
+Z7 !s110 1535510389
+!i10b 1
+Z8 !s108 1535510389.000000
+Z9 !s90 -reportprogress|300|-work|ecen424|-2002|-explicit|-stats=none|C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_nand_concurrent.vhd|
+Z10 !s107 C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_nand_concurrent.vhd|
+!i113 1
+Z11 o-work ecen424 -2002 -explicit -O0
+Z12 tExplicit 1
+Abehavioral
+R1
+R2
+DEx4 work 12 eightbitnand 0 22 hXb^@>Ii0Bkf^A3l=fHRH3
+l10
+L8
+VM9^?m;OhM4hJ6MQ1e1ko;2
+!s100 0bdTJ3L@RGfMn?>LjN9^32
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Eeightbitnand_tb
+Z13 w1535508946
+Z14 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R1
+R2
+R3
+Z15 8C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_nand_concurrent_tb.vhd
+Z16 FC:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_nand_concurrent_tb.vhd
+l0
+L5
+V10S7`Bl];bQk9iC2ePV@f0
+!s100 OgQfnbCKYmmdFo5j5Nk0O1
+R6
+32
+R7
+!i10b 1
+R8
+Z17 !s90 -reportprogress|300|-work|ecen424|-2002|-explicit|-stats=none|C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_nand_concurrent_tb.vhd|
+Z18 !s107 C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_nand_concurrent_tb.vhd|
+!i113 1
+R11
+R12
+Atb_behavioral
+R14
+R1
+R2
+Z19 DEx4 work 15 eightbitnand_tb 0 22 10S7`Bl];bQk9iC2ePV@f0
+l16
+L8
+Z20 V:S3O_ULnn:2SjYQFH?[l=2
+Z21 !s100 M]aBk989blYk@Wl=mJS>81
+R6
+32
+R7
+!i10b 1
+R8
+R17
+R18
+!i113 1
+R11
+R12

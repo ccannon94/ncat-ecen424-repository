@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Chris/Documents/development/ncat-ecen424-repository/basys3_tutorial/tutorial.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity tutorial
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Chris/Documents/development/ncat-ecen424-repository/basys3_tutorial/tutorial_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity tutorial_tb
