@@ -1,0 +1,19 @@
+C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_one_mux_selected_tb.vhd {2 {vcom -work ecen424 -2002 -explicit -stats=none C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_one_mux_selected_tb.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity eight_one_mux_selected_tb
+-- Compiling architecture tb_behavioral of eight_one_mux_selected_tb
+** Warning: C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_one_mux_selected_tb.vhd(30): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_one_mux_selected.vhd {1 {vcom -work ecen424 -2002 -explicit -stats=none C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_one_mux_selected.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity eight_one_mux_selected
+-- Compiling architecture behavioral of eight_one_mux_selected
+
+} {} {}}

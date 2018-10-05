@@ -1,0 +1,18 @@
+C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/three_eight_decoder_low_conditional.vhd {1 {vcom -work ecen424 -2002 -explicit -stats=none C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/three_eight_decoder_low_conditional.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity three_eight_decoder_low_conditional
+-- Compiling architecture behavioral of three_eight_decoder_low_conditional
+
+} {} {}} C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/three_eight_decoder_low_conditional_tb.vhd {1 {vcom -work ecen424 -2002 -explicit -stats=none C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/three_eight_decoder_low_conditional_tb.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity three_eight_decoder_low_conditional_tb
+-- Compiling architecture tb_behavioral of three_eight_decoder_low_conditional_tb
+
+} {} {}}

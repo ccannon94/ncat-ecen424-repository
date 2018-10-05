@@ -1,0 +1,1130 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+Eeight_bit_nand_process
+Z0 w1535518389
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dC:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1
+Z4 8C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_bit_nand_process.vhd
+Z5 FC:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_bit_nand_process.vhd
+l0
+L4
+VF84f[3c4CoH>j9G7Gj2Dh1
+!s100 5HTXo?Rb@<]6oIOX1Y9Od1
+Z6 OP;C;10.4a;61
+32
+Z7 !s110 1535518392
+!i10b 1
+Z8 !s108 1535518392.000000
+Z9 !s90 -reportprogress|300|-work|ecen424|-2002|-explicit|-stats=none|C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_bit_nand_process.vhd|
+Z10 !s107 C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_bit_nand_process.vhd|
+!i113 1
+Z11 o-work ecen424 -2002 -explicit -O0
+Z12 tExplicit 1
+Abehavioral
+R1
+R2
+DEx4 work 22 eight_bit_nand_process 0 22 F84f[3c4CoH>j9G7Gj2Dh1
+l10
+L8
+VP3JSO4[]P2JGJOB?RVT<M1
+!s100 l87?HE]NUg8K7HS>4JVZT2
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Eeight_bit_nand_process_tb
+Z13 w1535518221
+Z14 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R1
+R2
+R3
+Z15 8C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_bit_nand_process_tb.vhd
+Z16 FC:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_bit_nand_process_tb.vhd
+l0
+L5
+VTG6[GZc699e_;`DDe00gm3
+!s100 DfZI?I]6OQDR>KBTP9Vf51
+R6
+32
+R7
+!i10b 1
+R8
+Z17 !s90 -reportprogress|300|-work|ecen424|-2002|-explicit|-stats=none|C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_bit_nand_process_tb.vhd|
+Z18 !s107 C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_bit_nand_process_tb.vhd|
+!i113 1
+R11
+R12
+Atb_behavioral
+R14
+R1
+R2
+DEx4 work 25 eight_bit_nand_process_tb 0 22 TG6[GZc699e_;`DDe00gm3
+l16
+L8
+VX`Y0cPU;3cQGfjf<7WbF[1
+!s100 YdQf]@0eJRcUS_CgPRieY3
+R6
+32
+R7
+!i10b 1
+R8
+R17
+R18
+!i113 1
+R11
+R12
+Eeight_bit_nand_selected
+R1
+R2
+32
+Z19 !s110 1535513063
+!i10b 1
+Z20 w1535513061
+R3
+Z21 8C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_bit_nand_selected.vhd
+Z22 FC:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_bit_nand_selected.vhd
+l0
+L4
+VaWDYbl19LldoN:AJ4TcmK3
+!s100 f;3E79B@e63GQ0`148R_<2
+R6
+Z23 !s108 1535513063.000000
+Z24 !s90 -reportprogress|300|-work|ecen424|-2002|-explicit|-stats=none|C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_bit_nand_selected.vhd|
+Z25 !s107 C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_bit_nand_selected.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R1
+R2
+DEx4 work 23 eight_bit_nand_selected 0 22 aWDYbl19LldoN:AJ4TcmK3
+32
+R19
+!i10b 1
+l10
+L8
+VmE@UahOLiHMj9`TUZa`B71
+!s100 WlF5<LJWjG^Flj03G1ZBQ1
+R6
+R23
+R24
+R25
+!i113 1
+R11
+R12
+Eeight_bit_nand_selected_tb
+R14
+R1
+R2
+32
+R19
+!i10b 1
+Z26 w1535512841
+R3
+Z27 8C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_bit_nand_selected_tb.vhd
+Z28 FC:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_bit_nand_selected_tb.vhd
+l0
+L5
+V3GFhZZ`IoXQg1mbMHOfoi3
+!s100 85k9659FEke[ClgTUL`fc1
+R6
+R23
+Z29 !s90 -reportprogress|300|-work|ecen424|-2002|-explicit|-stats=none|C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_bit_nand_selected_tb.vhd|
+Z30 !s107 C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_bit_nand_selected_tb.vhd|
+!i113 1
+R11
+R12
+Atb_behavioral
+R14
+R1
+R2
+DEx4 work 26 eight_bit_nand_selected_tb 0 22 3GFhZZ`IoXQg1mbMHOfoi3
+32
+R19
+!i10b 1
+l16
+L8
+Vk7cQ_hFA;]mUkTUl8[QId0
+!s100 j9cam^L3=og1lVFl=3alk1
+R6
+R23
+R29
+R30
+!i113 1
+R11
+R12
+Eeight_bit_nor_concurrent
+R1
+R2
+32
+Z31 !s110 1535513655
+!i10b 1
+Z32 w1535513631
+R3
+Z33 8C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_bit_nor_concurrent.vhd
+Z34 FC:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_bit_nor_concurrent.vhd
+l0
+L4
+VGS?onOjkGcbhlZ6FVMTiT1
+!s100 FPk^8<Mjf871A>SnFn:@c0
+R6
+Z35 !s108 1535513655.000000
+Z36 !s90 -reportprogress|300|-work|ecen424|-2002|-explicit|-stats=none|C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_bit_nor_concurrent.vhd|
+Z37 !s107 C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_bit_nor_concurrent.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R1
+R2
+DEx4 work 24 eight_bit_nor_concurrent 0 22 GS?onOjkGcbhlZ6FVMTiT1
+32
+R31
+!i10b 1
+l10
+L8
+VMUO67jeg[SK?M^;NU_1KZ2
+!s100 YGOWo[9XB`[Cf>a8]U^6m3
+R6
+R35
+R36
+R37
+!i113 1
+R11
+R12
+Eeight_bit_nor_concurrent_tb
+R14
+R1
+R2
+32
+R31
+!i10b 1
+Z38 w1535513653
+R3
+Z39 8C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_bit_nor_concurrent_tb.vhd
+Z40 FC:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_bit_nor_concurrent_tb.vhd
+l0
+L5
+V058^2PNImIh_4fBQ=fkci0
+!s100 <[BklPGBRf7i]V948GmGY2
+R6
+R35
+Z41 !s90 -reportprogress|300|-work|ecen424|-2002|-explicit|-stats=none|C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_bit_nor_concurrent_tb.vhd|
+Z42 !s107 C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_bit_nor_concurrent_tb.vhd|
+!i113 1
+R11
+R12
+Atb_behavioral
+R14
+R1
+R2
+DEx4 work 27 eight_bit_nor_concurrent_tb 0 22 058^2PNImIh_4fBQ=fkci0
+32
+R31
+!i10b 1
+l16
+L8
+V>HYo8c:R:O1GKf>h>L@>a3
+!s100 JV^AoERckacHgzB=;Q>RJ2
+R6
+R35
+R41
+R42
+!i113 1
+R11
+R12
+Eeight_bit_nor_conditional
+Z43 w1535518715
+R1
+R2
+R3
+Z44 8C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_bit_nor_process.vhd
+Z45 FC:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_bit_nor_process.vhd
+l0
+L4
+V;:@J4I69^>Pd[kRU`87_J0
+!s100 l^gQFbh9>:3W^eNn9@IX@2
+R6
+32
+Z46 !s110 1535518719
+!i10b 1
+Z47 !s108 1535518719.000000
+Z48 !s90 -reportprogress|300|-work|ecen424|-2002|-explicit|-stats=none|C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_bit_nor_process.vhd|
+Z49 !s107 C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_bit_nor_process.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R1
+R2
+DEx4 work 25 eight_bit_nor_conditional 0 22 ;:@J4I69^>Pd[kRU`87_J0
+l10
+L8
+V9GdjU7dSh4SdbfK=ZQS_93
+!s100 M:U7;7]a>3F_fAZLV96F81
+R6
+32
+R46
+!i10b 1
+R47
+R48
+R49
+!i113 1
+R11
+R12
+Eeight_bit_nor_conditional_tb
+R14
+R1
+R2
+32
+Z50 !s110 1535513954
+!i10b 1
+Z51 w1535513934
+R3
+Z52 8C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_bit_nor_conditional_tb.vhd
+Z53 FC:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_bit_nor_conditional_tb.vhd
+l0
+L4
+Vh90D34<0AZ9nXJm7h9Wc80
+!s100 i9cfPMC]o`z[JgiT<@?]=0
+R6
+Z54 !s108 1535513954.000000
+Z55 !s90 -reportprogress|300|-work|ecen424|-2002|-explicit|-stats=none|C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_bit_nor_conditional_tb.vhd|
+Z56 !s107 C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_bit_nor_conditional_tb.vhd|
+!i113 1
+R11
+R12
+Atb_behavioral
+R14
+R1
+R2
+DEx4 work 28 eight_bit_nor_conditional_tb 0 22 h90D34<0AZ9nXJm7h9Wc80
+32
+R50
+!i10b 1
+l15
+L7
+VdD9Nf?`FkQPm?XZ5?Ckh01
+!s100 2CoQ3Y<b<nhG26hz6jRXl0
+R6
+R54
+R55
+R56
+!i113 1
+R11
+R12
+Eeight_bit_nor_process
+Z57 w1535518750
+R1
+R2
+R3
+R44
+R45
+l0
+L4
+VIVPJ=cg]eR>KJeGMmJH2F3
+!s100 m]NbA]<hWEzafF8ZFYM^Z3
+R6
+32
+Z58 !s110 1535518752
+!i10b 1
+Z59 !s108 1535518752.000000
+R48
+R49
+!i113 1
+R11
+R12
+Abehavioral
+R1
+R2
+DEx4 work 21 eight_bit_nor_process 0 22 IVPJ=cg]eR>KJeGMmJH2F3
+l10
+L8
+VGoBmReK82G1YNJL6W2AfN0
+!s100 1Q:l@HS6l@m_EWYzT;6zk2
+R6
+32
+R58
+!i10b 1
+R59
+R48
+R49
+!i113 1
+R11
+R12
+Eeight_bit_nor_process_tb
+Z60 w1535518573
+R14
+R1
+R2
+R3
+Z61 8C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_bit_nor_process_tb.vhd
+Z62 FC:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_bit_nor_process_tb.vhd
+l0
+L5
+Vg@<ElU8[>2]63eQalY0Zb3
+!s100 f396ofH=icR11Q6S`lZG>1
+R6
+32
+R58
+!i10b 1
+R59
+Z63 !s90 -reportprogress|300|-work|ecen424|-2002|-explicit|-stats=none|C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_bit_nor_process_tb.vhd|
+Z64 !s107 C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_bit_nor_process_tb.vhd|
+!i113 1
+R11
+R12
+Atb_behavioral
+R14
+R1
+R2
+DEx4 work 24 eight_bit_nor_process_tb 0 22 g@<ElU8[>2]63eQalY0Zb3
+l16
+L8
+V?OS:AhQ_0L4lDCzCz9<hV0
+!s100 HcOAD^0f^eM^hTlb7eTOS1
+R6
+32
+!s110 1535518753
+!i10b 1
+R59
+R63
+R64
+!i113 1
+R11
+R12
+Eeight_bit_nor_selected
+R1
+R2
+32
+Z65 !s110 1535514240
+!i10b 1
+Z66 w1535514238
+R3
+Z67 8C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_bit_nor_selected.vhd
+Z68 FC:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_bit_nor_selected.vhd
+l0
+L4
+VjTLSG:JEHN20FTaHW9dh:0
+!s100 ;3h5h4AmYI1jmAADaO@G73
+R6
+Z69 !s108 1535514240.000000
+Z70 !s90 -reportprogress|300|-work|ecen424|-2002|-explicit|-stats=none|C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_bit_nor_selected.vhd|
+Z71 !s107 C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_bit_nor_selected.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R1
+R2
+DEx4 work 22 eight_bit_nor_selected 0 22 jTLSG:JEHN20FTaHW9dh:0
+32
+R65
+!i10b 1
+l10
+L8
+V;14_f97XcnPWIF9?SW4cl0
+!s100 I48DfU?P^fWXhI14Xch?Y3
+R6
+R69
+R70
+R71
+!i113 1
+R11
+R12
+Eeight_bit_nor_selected_tb
+R14
+R1
+R2
+32
+R65
+!i10b 1
+Z72 w1535514218
+R3
+Z73 8C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_bit_nor_selected_tb.vhd
+Z74 FC:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_bit_nor_selected_tb.vhd
+l0
+L5
+V]0;U2A:jON:0Gg2TXbfNm0
+!s100 XejWF30fE4TjXNnJYhJzN3
+R6
+R69
+Z75 !s90 -reportprogress|300|-work|ecen424|-2002|-explicit|-stats=none|C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_bit_nor_selected_tb.vhd|
+Z76 !s107 C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_bit_nor_selected_tb.vhd|
+!i113 1
+R11
+R12
+Atb_behavioral
+R14
+R1
+R2
+DEx4 work 25 eight_bit_nor_selected_tb 0 22 ]0;U2A:jON:0Gg2TXbfNm0
+32
+R65
+!i10b 1
+l16
+L8
+V[Ye:;Cg^=GfRR8THIW>fV0
+!s100 bV3EH3A;oooZHHjB7RZbU1
+R6
+R69
+R75
+R76
+!i113 1
+R11
+R12
+Eeight_one_mux_conditional
+R1
+R2
+32
+Z77 !s110 1535514954
+!i10b 1
+Z78 w1535514681
+R3
+Z79 8C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_one_mux_conditional.vhd
+Z80 FC:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_one_mux_conditional.vhd
+l0
+L4
+V^D>k9O4^3M?0=B>ic>LfW3
+!s100 hD5]07;=nhc178laEDSog1
+R6
+Z81 !s108 1535514954.000000
+Z82 !s90 -reportprogress|300|-work|ecen424|-2002|-explicit|-stats=none|C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_one_mux_conditional.vhd|
+Z83 !s107 C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_one_mux_conditional.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R1
+R2
+DEx4 work 25 eight_one_mux_conditional 0 22 ^D>k9O4^3M?0=B>ic>LfW3
+32
+R77
+!i10b 1
+l10
+L8
+V17l1XN9hIjD1M^JV6EkE70
+!s100 zUV?:G;7G:8I89=k;mW6Z3
+R6
+R81
+R82
+R83
+!i113 1
+R11
+R12
+Eeight_one_mux_conditional_tb
+R14
+R1
+R2
+32
+R77
+!i10b 1
+Z84 w1535514953
+R3
+Z85 8C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_one_mux_conditional_tb.vhd
+Z86 FC:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_one_mux_conditional_tb.vhd
+l0
+L5
+Vb9DRPm?b<HoER[zOV8zd]0
+!s100 ;igV:meP6CK09f?mjRKT03
+R6
+R81
+Z87 !s90 -reportprogress|300|-work|ecen424|-2002|-explicit|-stats=none|C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_one_mux_conditional_tb.vhd|
+Z88 !s107 C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_one_mux_conditional_tb.vhd|
+!i113 1
+R11
+R12
+Atb_behavioral
+R14
+R1
+R2
+DEx4 work 28 eight_one_mux_conditional_tb 0 22 b9DRPm?b<HoER[zOV8zd]0
+32
+R77
+!i10b 1
+l17
+L8
+V=jjBFVUS[9FC4L6Do06jD1
+!s100 2:RDVc>ZRA8H;h02nSg?[1
+R6
+R81
+R87
+R88
+!i113 1
+R11
+R12
+Eeight_one_mux_process
+Z89 w1535519381
+R1
+R2
+R3
+Z90 8C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_one_mux_process.vhd
+Z91 FC:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_one_mux_process.vhd
+l0
+L4
+V2QkAUSz7_ij^U9@AX;;DL1
+!s100 =TVm0zjKgVz]efT@Iz4C]3
+R6
+32
+Z92 !s110 1535519741
+!i10b 1
+Z93 !s108 1535519741.000000
+Z94 !s90 -reportprogress|300|-work|ecen424|-2002|-explicit|-stats=none|C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_one_mux_process.vhd|
+Z95 !s107 C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_one_mux_process.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R1
+R2
+Z96 DEx4 work 21 eight_one_mux_process 0 22 2QkAUSz7_ij^U9@AX;;DL1
+l10
+L8
+V6z^F[<8E5IAUd8WWQ5<EU1
+!s100 T6]9oMX2lh@=_l:_X2fNg1
+R6
+32
+R92
+!i10b 1
+R93
+R94
+R95
+!i113 1
+R11
+R12
+Eeight_one_mux_process_tb
+Z97 w1535518918
+R14
+R1
+R2
+R3
+Z98 8C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_one_mux_process_tb.vhd
+Z99 FC:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_one_mux_process_tb.vhd
+l0
+L5
+Vo5K?TX]^`Yaj?:JmfkYnD3
+!s100 3gXhfg;oSQU3h3b=@gb^m3
+R6
+32
+R92
+!i10b 1
+R93
+Z100 !s90 -reportprogress|300|-work|ecen424|-2002|-explicit|-stats=none|C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_one_mux_process_tb.vhd|
+Z101 !s107 C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_one_mux_process_tb.vhd|
+!i113 1
+R11
+R12
+Atb_behavioral
+R14
+R1
+R2
+DEx4 work 24 eight_one_mux_process_tb 0 22 o5K?TX]^`Yaj?:JmfkYnD3
+l17
+L8
+V[HV:9U<6anALV8T[W8obJ3
+!s100 Yz`GD5l^kGNjX?^`N^5533
+R6
+32
+R92
+!i10b 1
+R93
+R100
+R101
+!i113 1
+R11
+R12
+Eeight_one_mux_selected
+R1
+R2
+32
+Z102 !s110 1535515408
+!i10b 1
+Z103 w1535515405
+R3
+Z104 8C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_one_mux_selected.vhd
+Z105 FC:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_one_mux_selected.vhd
+l0
+L4
+VGbfnc[LVV_;Y15onZFWFK0
+!s100 KezR4DbRo4?Y>C<6j6aVa1
+R6
+Z106 !s108 1535515408.000000
+Z107 !s90 -reportprogress|300|-work|ecen424|-2002|-explicit|-stats=none|C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_one_mux_selected.vhd|
+Z108 !s107 C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_one_mux_selected.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R1
+R2
+DEx4 work 22 eight_one_mux_selected 0 22 Gbfnc[LVV_;Y15onZFWFK0
+32
+R102
+!i10b 1
+l10
+L8
+VEORo0dSh[YK@@h6mJLG^31
+!s100 CVKd0P4mD?W[ajeNMEAKW0
+R6
+R106
+R107
+R108
+!i113 1
+R11
+R12
+Eeight_one_mux_selected_tb
+R14
+R1
+R2
+32
+R102
+!i10b 1
+Z109 w1535515200
+R3
+Z110 8C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_one_mux_selected_tb.vhd
+Z111 FC:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_one_mux_selected_tb.vhd
+l0
+L5
+VzzS7^[3D4?j`=Sf;HbV3H3
+!s100 ]_cTX>m@QA8ko@98<WmVz0
+R6
+R106
+Z112 !s90 -reportprogress|300|-work|ecen424|-2002|-explicit|-stats=none|C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_one_mux_selected_tb.vhd|
+Z113 !s107 C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_one_mux_selected_tb.vhd|
+!i113 1
+R11
+R12
+Atb_behavioral
+R14
+R1
+R2
+DEx4 work 25 eight_one_mux_selected_tb 0 22 zzS7^[3D4?j`=Sf;HbV3H3
+32
+R102
+!i10b 1
+l17
+L8
+V9HFc3g3Lz44X1N^36HGno1
+!s100 ;HP;b<0Fa:e?:eDE?Xo[R0
+R6
+R106
+R112
+R113
+!i113 1
+R11
+R12
+Eeightbitnand
+R1
+R2
+32
+Z114 !s110 1535512428
+!i10b 1
+Z115 w1535507819
+R3
+Z116 8C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_nand_concurrent.vhd
+Z117 FC:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_nand_concurrent.vhd
+l0
+L4
+VhXb^@>Ii0Bkf^A3l=fHRH3
+!s100 o^RzQfj:o12DB]gTPIFRF2
+R6
+Z118 !s108 1535512428.000000
+Z119 !s90 -reportprogress|300|-work|ecen424|-2002|-explicit|-stats=none|C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_nand_concurrent.vhd|
+Z120 !s107 C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_nand_concurrent.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R1
+R2
+DEx4 work 12 eightbitnand 0 22 hXb^@>Ii0Bkf^A3l=fHRH3
+32
+R114
+!i10b 1
+l10
+L8
+VM9^?m;OhM4hJ6MQ1e1ko;2
+!s100 0bdTJ3L@RGfMn?>LjN9^32
+R6
+R118
+R119
+R120
+!i113 1
+R11
+R12
+Eeightbitnand_tb
+R14
+R1
+R2
+32
+R114
+!i10b 1
+Z121 w1535512355
+R3
+Z122 8C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_nand_concurrent_tb.vhd
+Z123 FC:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_nand_concurrent_tb.vhd
+l0
+L5
+V10S7`Bl];bQk9iC2ePV@f0
+!s100 OgQfnbCKYmmdFo5j5Nk0O1
+R6
+R118
+Z124 !s90 -reportprogress|300|-work|ecen424|-2002|-explicit|-stats=none|C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_nand_concurrent_tb.vhd|
+Z125 !s107 C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/eight_nand_concurrent_tb.vhd|
+!i113 1
+R11
+R12
+Atb_behavioral
+R14
+R1
+R2
+DEx4 work 15 eightbitnand_tb 0 22 10S7`Bl];bQk9iC2ePV@f0
+32
+R114
+!i10b 1
+l16
+L8
+VbnWbc]KC_zYd1n_3dCiT;3
+!s100 UG@GmYm]Okl5o1=g0`Eb@3
+R6
+R118
+R124
+R125
+!i113 1
+R11
+R12
+Ethree_eight_decoder_high_conditional
+Z126 w1535517735
+R1
+R2
+R3
+Z127 8C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/three_eight_decoder_high_conditional.vhd
+Z128 FC:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/three_eight_decoder_high_conditional.vhd
+l0
+L5
+V:8zj4a@@Xg=<^8cdCo<[42
+!s100 i_LmAzRCj0e6O7SVgFdS?1
+R6
+32
+Z129 !s110 1535517736
+!i10b 1
+Z130 !s108 1535517736.000000
+Z131 !s90 -reportprogress|300|-work|ecen424|-2002|-explicit|-stats=none|C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/three_eight_decoder_high_conditional.vhd|
+Z132 !s107 C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/three_eight_decoder_high_conditional.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R1
+R2
+DEx4 work 36 three_eight_decoder_high_conditional 0 22 :8zj4a@@Xg=<^8cdCo<[42
+l11
+L9
+VkP2ARzC_K6RU0J8E[V<lJ2
+!s100 h8<`eJ5=O<Ue@DKSVn1c]3
+R6
+32
+R129
+!i10b 1
+R130
+R131
+R132
+!i113 1
+R11
+R12
+Ethree_eight_decoder_high_conditional_tb
+Z133 w1535517451
+R14
+R1
+R2
+R3
+Z134 8C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/three_eight_decoder_high_conditional_tb.vhd
+Z135 FC:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/three_eight_decoder_high_conditional_tb.vhd
+l0
+L5
+Vg9ALgXY`7LR^3:anoa6Q]2
+!s100 ?;Ifh[f`I<><eOYmf4PLY3
+R6
+32
+R129
+!i10b 1
+R130
+Z136 !s90 -reportprogress|300|-work|ecen424|-2002|-explicit|-stats=none|C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/three_eight_decoder_high_conditional_tb.vhd|
+Z137 !s107 C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/three_eight_decoder_high_conditional_tb.vhd|
+!i113 1
+R11
+R12
+Atb_behavioral
+R14
+R1
+R2
+DEx4 work 39 three_eight_decoder_high_conditional_tb 0 22 g9ALgXY`7LR^3:anoa6Q]2
+l16
+L8
+VJ5IMJ9YSQ55Kk@7BDEP8l2
+!s100 4EVfW;a^ii3YDbK_2AlcF2
+R6
+32
+R129
+!i10b 1
+R130
+R136
+R137
+!i113 1
+R11
+R12
+Ethree_eight_decoder_high_selected
+Z138 w1535517984
+R1
+R2
+R3
+Z139 8C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/three_eight_decoder_high_selected.vhd
+Z140 FC:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/three_eight_decoder_high_selected.vhd
+l0
+L4
+V:9jLFz[7a^e0A321_YAzH0
+!s100 ]`e0RdBldZnXc_O[nI]EU2
+R6
+32
+Z141 !s110 1535517986
+!i10b 1
+Z142 !s108 1535517986.000000
+Z143 !s90 -reportprogress|300|-work|ecen424|-2002|-explicit|-stats=none|C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/three_eight_decoder_high_selected.vhd|
+Z144 !s107 C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/three_eight_decoder_high_selected.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R1
+R2
+DEx4 work 33 three_eight_decoder_high_selected 0 22 :9jLFz[7a^e0A321_YAzH0
+l10
+L8
+VcVYD0EEcJ`O7C1XlcHkhg0
+!s100 lnlkAB?dzgE3bO?Ff<^Vz2
+R6
+32
+R141
+!i10b 1
+R142
+R143
+R144
+!i113 1
+R11
+R12
+Ethree_eight_decoder_high_selected_tb
+Z145 w1535517909
+R14
+R1
+R2
+R3
+Z146 8C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/three_eight_decoder_high_selected_tb.vhd
+Z147 FC:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/three_eight_decoder_high_selected_tb.vhd
+l0
+L5
+V0zSnEdIliSO6V<YTk2VK_3
+!s100 ]@YaJnJH^c7l[6KXi0W>20
+R6
+32
+R141
+!i10b 1
+R142
+Z148 !s90 -reportprogress|300|-work|ecen424|-2002|-explicit|-stats=none|C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/three_eight_decoder_high_selected_tb.vhd|
+Z149 !s107 C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/three_eight_decoder_high_selected_tb.vhd|
+!i113 1
+R11
+R12
+Atb_behavioral
+R14
+R1
+R2
+DEx4 work 36 three_eight_decoder_high_selected_tb 0 22 0zSnEdIliSO6V<YTk2VK_3
+l16
+L8
+V?e0fcEK;CbUcbAD8Y1>Qe3
+!s100 bHia3`:z]51[_YS6E?:lX1
+R6
+32
+R141
+!i10b 1
+R142
+R148
+R149
+!i113 1
+R11
+R12
+Ethree_eight_decoder_low_conditional
+Z150 w1535516679
+R1
+R2
+R3
+Z151 8C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/three_eight_decoder_low_selected.vhd
+Z152 FC:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/three_eight_decoder_low_selected.vhd
+l0
+L4
+VNnlK64RnS8g[aV0ifBQn72
+!s100 koe4f=SzOLjjNNO[NlDh=0
+R6
+32
+Z153 !s110 1535517032
+!i10b 1
+Z154 !s108 1535517032.000000
+Z155 !s90 -reportprogress|300|-work|ecen424|-2002|-explicit|-stats=none|C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/three_eight_decoder_low_selected.vhd|
+Z156 !s107 C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/three_eight_decoder_low_selected.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R1
+R2
+DEx4 work 35 three_eight_decoder_low_conditional 0 22 NnlK64RnS8g[aV0ifBQn72
+l10
+L8
+VO@E<kdhY^9GGTN>VlU@d?1
+!s100 lEi;Y2P5_0F6mlQf>k;503
+R6
+32
+R153
+!i10b 1
+R154
+R155
+R156
+!i113 1
+R11
+R12
+Ethree_eight_decoder_low_conditional_tb
+Z157 w1535516585
+R14
+R1
+R2
+R3
+Z158 8C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/three_eight_decoder_low_selected_tb.vhd
+Z159 FC:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/three_eight_decoder_low_selected_tb.vhd
+l0
+L5
+V>BfF^]V7@XVbg0;O=Z7J]0
+!s100 6bek5R@90<kNDeBOJZO`91
+R6
+32
+R153
+!i10b 1
+R154
+Z160 !s90 -reportprogress|300|-work|ecen424|-2002|-explicit|-stats=none|C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/three_eight_decoder_low_selected_tb.vhd|
+Z161 !s107 C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/three_eight_decoder_low_selected_tb.vhd|
+!i113 1
+R11
+R12
+Atb_behavioral
+R14
+R1
+R2
+DEx4 work 38 three_eight_decoder_low_conditional_tb 0 22 >BfF^]V7@XVbg0;O=Z7J]0
+l16
+L8
+V9Hcb3CkCjeFiZZN3Q9H_Y1
+!s100 @ebHSdG3^aF0OnPZ6KhJ<3
+R6
+32
+R153
+!i10b 1
+R154
+R160
+R161
+!i113 1
+R11
+R12
+Ethree_eight_decoder_low_process
+Z162 w1535519656
+R1
+R2
+R3
+Z163 8C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/three_eight_decoder_low_process.vhd
+Z164 FC:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/three_eight_decoder_low_process.vhd
+l0
+L4
+V5Uz5P44:maoJQRlJFdnRk2
+!s100 DT>^c2OR6CoLJKM[_FjAc2
+R6
+32
+R92
+!i10b 1
+R93
+Z165 !s90 -reportprogress|300|-work|ecen424|-2002|-explicit|-stats=none|C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/three_eight_decoder_low_process.vhd|
+Z166 !s107 C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/three_eight_decoder_low_process.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R1
+R2
+DEx4 work 31 three_eight_decoder_low_process 0 22 5Uz5P44:maoJQRlJFdnRk2
+l10
+L8
+V[?X3H:BW?9lL7SKFK`fNB1
+!s100 iVCKo1Q?DcBGU^QMzchNV1
+R6
+32
+R92
+!i10b 1
+R93
+R165
+R166
+!i113 1
+R11
+R12
+Ethree_eight_decoder_low_process_tb
+Z167 w1535519321
+R14
+R1
+R2
+R3
+Z168 8C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/three_eight_decoder_low_process_tb.vhd
+Z169 FC:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/three_eight_decoder_low_process_tb.vhd
+l0
+L5
+V46iX=ASh^`_EKcMNYddSz3
+!s100 KD[H3D?8dd6?^D]5BSY=Q2
+R6
+32
+R92
+!i10b 1
+R93
+Z170 !s90 -reportprogress|300|-work|ecen424|-2002|-explicit|-stats=none|C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/three_eight_decoder_low_process_tb.vhd|
+Z171 !s107 C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/three_eight_decoder_low_process_tb.vhd|
+!i113 1
+R11
+R12
+Atb_behavioral
+R14
+R1
+R2
+DEx4 work 34 three_eight_decoder_low_process_tb 0 22 46iX=ASh^`_EKcMNYddSz3
+l16
+L8
+Vn6EGcFg_3hi6aPWRz<O<U0
+!s100 _l_?b5n=`MfiRNKijl]eZ3
+R6
+32
+R92
+!i10b 1
+R93
+R170
+R171
+!i113 1
+R11
+R12

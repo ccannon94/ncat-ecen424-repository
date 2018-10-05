@@ -1,0 +1,170 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1
+Eeight_bit_nand_conditional
+Z1 w1535511833
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z4 8C:\Users\Chris\Documents\development\ncat-ecen424-repository\homework1\eight_bit_nand_conditional.vhd
+Z5 FC:\Users\Chris\Documents\development\ncat-ecen424-repository\homework1\eight_bit_nand_conditional.vhd
+l0
+L4
+VBzQQbDAj:D?YJVD^SKj8o2
+!s100 YJl=ARAIYNKmmGYDRCJ^^3
+Z6 OP;C;10.4a;61
+32
+Z7 !s110 1535512357
+!i10b 1
+Z8 !s108 1535512357.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\Chris\Documents\development\ncat-ecen424-repository\homework1\eight_bit_nand_conditional.vhd|
+Z10 !s107 C:\Users\Chris\Documents\development\ncat-ecen424-repository\homework1\eight_bit_nand_conditional.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+Abehavioral
+R2
+R3
+DEx4 work 26 eight_bit_nand_conditional 0 22 BzQQbDAj:D?YJVD^SKj8o2
+l10
+L8
+V=[CUO3Mc6IF^VcG6l7koJ2
+!s100 cbj1knWCGz>CT2Yfo]>HV1
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Eeight_bit_nand_conditional_tb
+Z13 w1535512113
+Z14 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R2
+R3
+R0
+Z15 8C:\Users\Chris\Documents\development\ncat-ecen424-repository\homework1\eight_bit_nand_conditional_tb.vhd
+Z16 FC:\Users\Chris\Documents\development\ncat-ecen424-repository\homework1\eight_bit_nand_conditional_tb.vhd
+l0
+L5
+VWdbeSW^kZXUS8A@>Eninh0
+!s100 Ibo=c3;_E[TmoLl9F=GSc1
+R6
+32
+R7
+!i10b 1
+R8
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\Chris\Documents\development\ncat-ecen424-repository\homework1\eight_bit_nand_conditional_tb.vhd|
+Z18 !s107 C:\Users\Chris\Documents\development\ncat-ecen424-repository\homework1\eight_bit_nand_conditional_tb.vhd|
+!i113 1
+R11
+R12
+Atb_behavioral
+R14
+R2
+R3
+DEx4 work 29 eight_bit_nand_conditional_tb 0 22 WdbeSW^kZXUS8A@>Eninh0
+l16
+L8
+V@z:oe`<LFjh8]DaejNW4n2
+!s100 H6OKPhEa2G<e8CBH`U<G]2
+R6
+32
+R7
+!i10b 1
+R8
+R17
+R18
+!i113 1
+R11
+R12
+Ethree_eight_decoder_low_selected
+Z19 w1535517133
+R2
+R3
+R0
+Z20 8C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/three_eight_decoder_low_selected.vhd
+Z21 FC:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/three_eight_decoder_low_selected.vhd
+l0
+L4
+VmkBhiAE6V7zd[6]bcn@N11
+!s100 aUTSM;HU0o[5<B1zBMkfV0
+R6
+32
+Z22 !s110 1535517176
+!i10b 1
+Z23 !s108 1535517176.000000
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/three_eight_decoder_low_selected.vhd|
+Z25 !s107 C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/three_eight_decoder_low_selected.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R2
+R3
+DEx4 work 32 three_eight_decoder_low_selected 0 22 mkBhiAE6V7zd[6]bcn@N11
+l10
+L8
+V>ezIKMd[k<k7ZgM3=MUGE2
+!s100 CU59h[D@C>kY3ha0gQAB_1
+R6
+32
+R22
+!i10b 1
+R23
+R24
+R25
+!i113 1
+R11
+R12
+Ethree_eight_decoder_low_selected_tb
+Z26 w1535517162
+R14
+R2
+R3
+R0
+Z27 8C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/three_eight_decoder_low_selected_tb.vhd
+Z28 FC:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/three_eight_decoder_low_selected_tb.vhd
+l0
+L5
+VN4dn;Q5WXf=8d=[?CaDN;3
+!s100 F98A]O2SfFa9V3WKGRGMh0
+R6
+32
+R22
+!i10b 1
+R23
+Z29 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/three_eight_decoder_low_selected_tb.vhd|
+Z30 !s107 C:/Users/Chris/Documents/development/ncat-ecen424-repository/homework1/three_eight_decoder_low_selected_tb.vhd|
+!i113 1
+R11
+R12
+Atb_behavioral
+R14
+R2
+R3
+DEx4 work 35 three_eight_decoder_low_selected_tb 0 22 N4dn;Q5WXf=8d=[?CaDN;3
+l16
+L8
+V@i2;87XNj0=`2<Ia<Lo8H0
+!s100 9G=mg5zVin00PmjFzg20]3
+R6
+32
+R22
+!i10b 1
+R23
+R29
+R30
+!i113 1
+R11
+R12
